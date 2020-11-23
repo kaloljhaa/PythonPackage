@@ -18,8 +18,8 @@ In computer programming, **Pandas** is a software library written for the Python
    - To install Pandas on Windows, use the command 
       pip install pandas
    - To install Pandas on Linux (OSX), open the Terminal Window (Commad+spacebar) and type the following command
-      $ python -m pip install pandas
+      - $ python -m pip install pandas
 3. Press enter and Linux will automatically download and install the packages/files required to run Pandas in Python
 4. To import Pandas all you have to do is run the following code: 
-    import pandas as PD
-    import NumPy as np 
+    - import pandas as PD
+    - import NumPy as np 
