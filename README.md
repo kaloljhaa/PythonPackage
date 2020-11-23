@@ -1,5 +1,5 @@
 # Python Package : Pandas
-In computer programming, **Pandas** is a software library written for the Python programming language for data manipulation and analysis. In particular, it offers data structures and operations for manipulating numerical tables and time series
+In computer programming, **Pandas** is a data analysis and manipulation toolkit software library written for the Python programming language. It offers data structures and operations for manipulating numerical tables and time series. It is a powerful and flexible open source data analysis that is a fundamental high-level building block for doing practical, real world data manipulation.
 ### Key Features
   1. Fast and efficient DataFrame object with the default and customized indexing.
   2. Tools for loading data into in-memory data objects from different file formats.
