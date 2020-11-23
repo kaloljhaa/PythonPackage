@@ -33,3 +33,4 @@ data = pd.read_csv(url, names=columns, sep = ",", na_values = "?", skipinitialsp
 data.head()
 ```
 This code shows the dataset for a census. By using the data.head () function of pandas, it shows the first 5 rows of the dataset. Changing this function to another function, such as data.describe or data.info will change the output of the code. For instance, data.describe will produce the numerical attributes such as age, FnlWgt, education-num, capital-gain, capital-loss, and hours-per-week. Pandas has numerous functions that will all provide a different output and a new perspective on the data.
+<img width="1136" alt="Screen Shot 2020-11-22 at 7 41 59 PM" src="https://user-images.githubusercontent.com/74752610/99922038-2e979980-2cfc-11eb-972a-9caa951a7cb8.png">
