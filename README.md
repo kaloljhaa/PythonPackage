@@ -25,7 +25,7 @@ In computer programming, **Pandas** is a software library written for the Python
     - import NumPy as np 
 # Code
 Open a remote file or database like a CSV or a JSONon a website through a URL or read from a SQL table/database to retrieve a dataset.
-```
+```ruby
 import pandas as pd
 url = "https://archive.ics.uci.edu/ml/machine-learning-databases/adult/adult.data"
 columns = ["age", "work-class", "fnlwgt", "education", "education-num", "marital-status", "occupation", "relationship", "race", "sex", "capital-gain", "capital loss", "hours-per-week", "native-country", "income"]
